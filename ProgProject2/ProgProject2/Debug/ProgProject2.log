@@ -1,0 +1,8 @@
+﻿  ProgProject2.cpp
+c:\users\first\documents\visual studio 2015\projects\progproject2\progproject2\progproject2.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\first\documents\visual studio 2015\projects\progproject2\progproject2\progproject2.cpp(96): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\first\documents\visual studio 2015\projects\progproject2\progproject2\progproject2.cpp(100): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\first\documents\visual studio 2015\projects\progproject2\progproject2\progproject2.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\first\documents\visual studio 2015\projects\progproject2\progproject2\progproject2.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+  ProgProject2.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\ProgProject2\Debug\ProgProject2.exe
+  ProgProject2.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\ProgProject2\Debug\ProgProject2.pdb (Full PDB)

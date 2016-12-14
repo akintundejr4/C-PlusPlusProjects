@@ -1,0 +1,137 @@
+George        
+Washington    
+96.8 99.9 97.7 95.6
+John          
+Adams         
+99.5 88.8 85.9 94.5
+Thomas        
+Jefferson     
+88.8 97.6 86.6 95.9
+James         
+Madison       
+90.4 77.3 72.2 68.8
+James         
+Monroe        
+77.2 77.8 88.3 83.2
+John Quincy   
+Adams         
+55.9 89.9 82.2 84.6
+Andrew        
+Jackson       
+91.8 93.5 94.1 90.2
+Martin        
+VanBuren      
+89.9 33.5 76.4 67.1
+William Henry 
+Harrison      
+66.5 55.7 55.8 44.9
+John          
+Tyler         
+88.9 88.0 81.4 82.4
+James K.      
+Polk          
+86.7 86.8 91.2 95.9
+Zachey        
+Taylor        
+55.5 66.6 66.2 62.1
+Millard       
+Fillmore      
+67.3 77.8 65.9 67.2
+Franklin      
+Pierce        
+59.3 62.2 87.8 60.3
+James         
+Buchanan      
+66.1 62.6 54.1 45.2
+Abraham       
+Lincoln       
+95.4 95.4 93.4 97.1
+Andrew        
+Johnson       
+47.4 66.8 75.5 55.2
+Ulyses S.     
+Grant         
+60.3 78.9 71.4 62.2
+Rutherford B. 
+Hayes         
+77.8 77.9 72.4 80.1
+James A.      
+Garfield      
+79.9 69.9 59.9 84.6
+Chester A.    
+Arthur        
+66.7 77.1 56.6 59.3
+Grover        
+Cleveland     
+88.2 52.2 72.9 68.3
+Benjamin      
+Harrison      
+88.3 89.3 78.4 69.4
+Grover        
+Cleveland     
+77.9 84.7 88.9 78.4
+William       
+McKinley      
+56.6 45.6 34.5 23.8
+Teddy         
+Roosevelt     
+76.7 62.2 88.9 75.9
+William       
+Taft          
+72.3 72.3 84.3 80.2
+Woodrow       
+Wilson        
+40.9 58.3 68.8 51.1
+Warren G.     
+Harding       
+76.8 87.4 87.1 79.3
+Calvn         
+Coolidge      
+75.8 89.9 78.2 80.3
+Herbert       
+Hoover        
+66.8 90.9 58.4 69.4
+Franklin D.   
+Roosevelt     
+89.9 68.7 60.2 77.5
+Harry S.      
+Truman        
+77.9 71.2 76.7 75.3
+Dwight D.     
+Eisenhower    
+82.2 81.9 72.6 75.6
+John F.       
+Kennedy       
+68.3 87.3 63.7 79.2
+Lyndon B.     
+Johnson       
+57.3 66.3 64.8 30.6
+Richard M.    
+Nixon         
+76.2 67.3 72.1 75.6
+Gerald        
+Ford          
+88.8 59.2 67.7 80.5
+Jimmy         
+Carter        
+55.5 36.6 54.5 39.9
+Ronald        
+Reagan        
+92.8 98.2 93.3 96.5
+George        
+Bush          
+88.8 87.8 66.6 68.2
+Bill          
+Clinton       
+45.5 56.5 34.6 45.6
+George W.     
+Bush III      
+70.7 89.6 67.2 61.4
+Barrack       
+Obama         
+40.6 60.2 47.7 52.4
+No            
+More          
+C R           
+Van Dyke      
+80.0 80.0 80.0 80.0

@@ -1,0 +1,204 @@
+I
+20017
+Selene        
+Wolfe         
+Board Room      
+Vice President  
+550450.5
+I
+87023
+Alexsandru    
+Andrei        
+Sales           
+Chief Associate 
+98203.71 
+I
+30045
+Johnson       
+Oliver        
+Marketing       
+Ad Manager      
+33928.90
+P
+E
+I
+12058
+Alayne        
+Beshey        
+Board Room      
+President       
+705390.20
+I
+99066
+Hannah        
+McKay         
+Marketing       
+Field Associate 
+23570.56
+I
+45076
+Omad              
+Royeen
+IT
+Programmer
+65729.99
+P
+E
+I
+80089
+Mariana       
+Fuentes Toro  
+Accounting      
+Vice President  
+103780.90
+I
+94099
+Keith         
+Djouba        
+IT              
+Chief Programmer
+250555
+I
+34102
+Harrison      
+York          
+Manufacturing   
+Division Chief  
+98310.34
+p
+E
+C
+45076
+5
+71120.60
+I
+77113
+Benjamin      
+Nelson        
+Communications  
+Division Chief  
+85901.56
+D
+99066
+I
+22129
+Adam          
+Ebel          
+Accounting      
+Chief Acountant 
+54005.22
+I
+29133
+Aaron         
+Henningfeld   
+Human Resources 
+Chief Actuary   
+101845.55
+I
+64149
+Keith         
+Djouba        
+IT              
+Programmer      
+78920.66
+P
+E
+I
+67155
+Lie           
+Gu            
+House Keeping   
+Division Chief  
+45920.66
+C
+29133
+4
+Vice President
+C
+29133
+5
+111234.82
+I
+93160
+Jacob         
+Barger        
+Sales           
+Operations Chief
+76321.22
+D
+77113
+P
+E
+C
+93160
+1
+Killer   
+I
+55177
+Joseph        
+Sides         
+IT              
+Programmer      
+56780.99
+I
+98301
+Jacob         
+Barger        
+House Keeping   
+Shift Manager   
+35670.55
+I
+43180
+Brendan       
+Ochs          
+IT              
+Programmer      
+57623.44
+I
+88210
+Alton         
+Stillwell     
+Sales           
+Chief Associate 
+87643.50
+P
+S 93160
+I
+56199
+Akintunde     
+Akinyemi      
+PR              
+Spokes Person   
+83506.66
+P
+E
+I
+87204
+Tayler        
+Monaco        
+Maintenance     
+AC Repairman    
+48789.33
+C
+56199
+2
+Samsong       
+I
+22223
+Matthew       
+Van Coutren   
+IT              
+Programmer      
+72890.66
+I
+13390
+Lei           
+Gu            
+HouseKeeping    
+Cleaner         
+33290.50
+P
+E
+Q
+
+

@@ -1,0 +1,4 @@
+﻿  ProgProject7.cpp
+c:\users\first\documents\visual studio 2015\projects\progproject7\progproject7\progproject7.cpp(279): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ProgProject7.vcxproj -> c:\users\first\documents\visual studio 2015\Projects\ProgProject7\Debug\ProgProject7.exe
+  ProgProject7.vcxproj -> c:\users\first\documents\visual studio 2015\Projects\ProgProject7\Debug\ProgProject7.pdb (Full PDB)

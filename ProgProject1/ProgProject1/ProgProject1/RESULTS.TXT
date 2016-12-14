@@ -1,0 +1,227 @@
+            AkinTunde Akinyemi        CSC 24400     Section 11
+                     Fall 2016       Assignment #1
+--------------------------------------------------------------------------------
+
+The input data was: 
+T 980.0 1035.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Truck      $
+$                        $
+$ Time:       1 hours    $
+$                        $
+$ Amount                 $
+$ Paid:       $0.40      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+The input data was: 
+C 421.0 488.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Car        $
+$                        $
+$ Time:       2 hours    $
+$                        $
+$ Amount                 $
+$ Paid:       $0.40      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+The input data was: 
+T 540.0 1340.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Truck      $
+$                        $
+$ Time:       14 hours   $
+$                        $
+$ Amount                 $
+$ Paid:       $1.65      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+The input data was: 
+S 642.0 1020.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   SC         $
+$                        $
+$ Time:       7 hours    $
+$                        $
+$ Amount                 $
+$ Paid:       $0.84      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+The input data was: 
+T 725.0 1130.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Truck      $
+$                        $
+$ Time:       7 hours    $
+$                        $
+$ Amount                 $
+$ Paid:       $0.95      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+
+
+
+
+The input data was: 
+C 605.0 807.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Car        $
+$                        $
+$ Time:       4 hours    $
+$                        $
+$ Amount                 $
+$ Paid:       $0.70      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+
+
+
+The input data was: 
+C 445.0 1152.0
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$                        $
+$   MISSOURI WESTERN     $
+$   UNIVERSITY           $
+$                        $
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+$     PARKING FEE        $
+$                        $
+$ Customer               $
+$ Category:   Car        $
+$                        $
+$ Time:       12 hours   $
+$                        $
+$ Amount                 $
+$ Paid:       $1.20      $
+$                        $
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$                        $                                                
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+----------------------------------------
+|         END OF PROGRAM OUTPUT        |
+----------------------------------------

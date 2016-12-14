@@ -1,0 +1,10 @@
+﻿  ProgProject1.cpp
+d:\progproject1\progproject1\progproject1.cpp(160): warning C4305: '=': truncation from 'double' to 'float'
+d:\progproject1\progproject1\progproject1.cpp(164): warning C4305: '=': truncation from 'double' to 'float'
+d:\progproject1\progproject1\progproject1.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\progproject1\progproject1\progproject1.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\progproject1\progproject1\progproject1.cpp(187): warning C4305: '=': truncation from 'double' to 'float'
+d:\progproject1\progproject1\progproject1.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\progproject1\progproject1\progproject1.cpp(199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\progproject1\progproject1\progproject1.cpp(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProgProject1.vcxproj -> D:\ProgProject1\Debug\ProgProject1.exe
