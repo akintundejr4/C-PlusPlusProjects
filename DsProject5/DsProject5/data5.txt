@@ -1,0 +1,54 @@
+1001 
+Data Structures in C     
+15   25   80.52   138.75
+4202 
+Operating Systems        
+2    25   77.75   101.35
+9903 
+C++ Program Design       
+1    50   19.99   39.99
+1904 
+Oh! Pascal               
+00   20   16.65   32.32
+1805 
+Introduction to HTML     
+201  50   13.35   28.89
+4406 
+Computer Hardware        
+15   25   37.85   62.98
+3317 
+Analytic Geometry        
+2    15   21.72   34.45
+1918 
+Networks in Action       
+12   30   37.65   68.88
+3919 
+Assembly Lang Prog       
+21   25    13.35  29.99
+5010 
+FORTRAN 77               
+16   20   20.95   31.95
+3311 
+Using Netscape           
+74   50    6.65   19.95
+2212 
+C How to Program         
+33   75   18.85   35.55
+1113 
+The Joy of C             
+13   39   31.33   52.55
+5514 
+The Joy of C++           
+24   48   41.24   72.34
+1315 
+C++ for Dummies          
+13   25   12.33   42.33
+7616 
+Network Security         
+1    15   87.89  157.99
+2017 
+Learning C++             
+17   50   19.98   37.78
+-999 
+THE END                  
+
