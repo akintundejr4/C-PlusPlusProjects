@@ -442,37 +442,4 @@ void printCustomer(ifstream &infile, ofstream &outFile, MailingList mailers[], i
 	}
 }
 
-//********************************************************************************
 
-//********************************** FUNCTION HEADER *****************************
-void Header(ofstream &Outfile)
-{
-	// Recieves - the output file
-	// Task - Prints the output preamble
-	// Returns - Nothing
-
-	Outfile << setw(30) << "AkinTunde Akinyemi";
-	Outfile << setw(17) << "CSC 24400";
-	Outfile << setw(15) << "Section 11" << endl;
-	Outfile << setw(30) << "Fall 2016";
-	Outfile << setw(20) << "Assignment #6" << endl;
-	Outfile << setw(35) << "----------------------------------------";
-	Outfile << setw(35) << "----------------------------------------" << endl << endl;
-	return;
-}
-//******************************* END OF FUNCTION HEADER *************************
-
-//********************************** FUNCTION FOOTER *****************************
-void Footer(ofstream &Outfile)
-{
-	// Recieves - the output file
-	// Task - Prints the output salutation
-	// Returns - Nothing
-
-	Outfile << endl;
-	Outfile << setw(35) << "----------------------------------------" << endl;
-	Outfile << setw(35) << "|         END OF PROGRAM OUTPUT        |" << endl;
-	Outfile << setw(35) << "----------------------------------------" << endl;
-	return;
-}
-//******************************* END OF FUNCTION FOOTER ***********************
