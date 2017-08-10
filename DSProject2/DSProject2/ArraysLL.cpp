@@ -1,13 +1,3 @@
-//***********************************************************************
-//*                                                                     *
-//*   File Name:  ArraysLL.cpp         Author: Renee Van Dyke           *
-//*                                                                     *
-//*   Course:  CSC 360                 Date:  February 8, 2002          *
-//*                                                                     *
-//*   Purpose:  This program demonstartes the use of arrays to          *
-//*             implement a linked list.                                *
-//*                                                                     *
-//***********************************************************************
 #include <iostream.h>
 #include <stdlib.h>
 #include <iomanip.h>
