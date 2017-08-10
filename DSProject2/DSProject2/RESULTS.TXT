@@ -1,6 +1,4 @@
-            AkinTunde Akinyemi        CSC 36000     Section 11
-                   Spring 2017       Assignment #2
---------------------------------------------------------------------------------
+
 
                                    MAILING LIST
 Last Name     First Name    Address              City         State     Zip Code
