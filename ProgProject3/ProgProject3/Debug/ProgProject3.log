@@ -1,7 +1,0 @@
-﻿  ProgProject3.cpp
-c:\users\first\documents\visual studio 2015\projects\progproject3\progproject3\progproject3.cpp(215): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\first\documents\visual studio 2015\projects\progproject3\progproject3\progproject3.cpp(221): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\first\documents\visual studio 2015\projects\progproject3\progproject3\progproject3.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\first\documents\visual studio 2015\projects\progproject3\progproject3\progproject3.cpp(256): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  ProgProject3.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\ProgProject3\Debug\ProgProject3.exe
-  ProgProject3.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\ProgProject3\Debug\ProgProject3.pdb (Full PDB)

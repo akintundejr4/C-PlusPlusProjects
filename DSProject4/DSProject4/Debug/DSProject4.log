@@ -1,7 +1,0 @@
-﻿  DSProject4.cpp
-c:\users\first\documents\visual studio 2015\projects\dsproject4\dsproject4\dsproject4.cpp(110): warning C4018: '<': signed/unsigned mismatch
-c:\users\first\documents\visual studio 2015\projects\dsproject4\dsproject4\dsproject4.cpp(147): warning C4018: '<': signed/unsigned mismatch
-c:\users\first\documents\visual studio 2015\projects\dsproject4\dsproject4\dsproject4.cpp(307): warning C4018: '<': signed/unsigned mismatch
-c:\users\first\documents\visual studio 2015\projects\dsproject4\dsproject4\dsproject4.cpp(344): warning C4018: '<': signed/unsigned mismatch
-  DSProject4.vcxproj -> C:\Users\First\documents\visual studio 2015\Projects\DSProject4\Debug\DSProject4.exe
-  DSProject4.vcxproj -> C:\Users\First\documents\visual studio 2015\Projects\DSProject4\Debug\DSProject4.pdb (Full PDB)

@@ -1,0 +1,49 @@
+
+
+The orginal list of test scores is:
+Student ID #       Test Score
+2014               73.53
+7602               62.65
+6039               75.02
+9204               93.32
+2054               51.92
+3306              100.04
+8077               84.77
+2308               62.87
+7090               88.58
+1041               45.93
+9118               76.99
+9712               77.22
+2139               78.65
+1465               69.13
+4158               76.32
+6816               82.32
+7175               85.10
+1822               89.00
+8199               74.65
+8520               99.87
+5216               76.28
+2288               95.39
+3235               86.90
+2824               55.83
+7254               92.44
+2661               81.77
+1279               90.98
+4428               61.53
+9291               58.89
+
+
+Students receiving a grade of A are:  9204 3306 8520 2288 7254 1279 (Send em to University of Washigton. Go Dawgs!)
+Students receiving a grade of B are:  8077 7090 6816 7175 1822 3235 2661  (Send em to Washington State.)
+Students receiving a grade of C are:  2014 6039 9118 9712 2139 4158 8199 5216 (Send em to Community College)
+Students receiving a grade of D are:  7602 2308 1465 4428  (Send em to Boarding School)
+Students receiving a grade of F are:  2054 1041 2824 9291  (Send em to Military School)
+
+The lowest test score was 45.93 achieved by student #1041 (Must've gone to Berkley)
+
+The highest test score was 100.04 achieved by student #3306 (Must've gone to Stanford)
+
+The average test score for the group is 77.51
+----------------------------------------
+|         END OF PROGRAM OUTPUT        |
+----------------------------------------

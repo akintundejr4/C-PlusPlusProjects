@@ -1,4 +1,0 @@
-﻿  DSProject2.cpp
-c:\users\first\documents\visual studio 2015\projects\dsproject2\dsproject2\dsproject2.cpp(279): warning C4101: 'tempPtr': unreferenced local variable
-  DSProject2.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\DSProject2\Debug\DSProject2.exe
-  DSProject2.vcxproj -> C:\Users\First\Documents\Visual Studio 2015\Projects\DSProject2\Debug\DSProject2.pdb (Full PDB)
