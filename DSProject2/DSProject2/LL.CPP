@@ -1,15 +1,4 @@
-//*****************************************************************
-//*                                                               *
-//*  File: LL.CPP					Author: Renee Van Dyke        *
-//*                                                               *
-//*  Course: CSC 360				Date: February 16, 2004       *
-//*                                                               *
-//*  Purpose: This program is designed to demostrate the use of   *
-//*           structures in a Linked List. The program repeatedly *
-//*           adds, deletes, and prints the contents of the       *
-//*           Linked List until the quit operation is performed.  *
-//*                                                               *
-//*****************************************************************
+
 #include <fstream.h>
 #include <iomanip.h>
 #include <stdlib.h>
