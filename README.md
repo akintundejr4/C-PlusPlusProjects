@@ -1,5 +1,2 @@
 # C-PlusPlusProjects
-
-
-
-A collection of C++ project's developed during the learning process. 
+A collection of C++ project's developed for learning and experimentation purposes.
